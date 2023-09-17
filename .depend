@@ -1,0 +1,6 @@
+main.o: main.cpp Game.hpp Dir.hpp Touch.hpp Text.hpp Snake.hpp
+Text.o: Text.cpp Text.hpp
+Dir.o: Dir.cpp Dir.hpp
+Touch.o: Touch.cpp Touch.hpp Dir.hpp
+Snake.o: Snake.cpp Snake.hpp Dir.hpp
+Game.o: Game.cpp Game.hpp Dir.hpp Touch.hpp Text.hpp Snake.hpp
