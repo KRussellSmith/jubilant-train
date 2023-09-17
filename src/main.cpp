@@ -1,5 +1,3 @@
-//C++ is a language best used on crack (unfortanately, i only have coffee.)
-//(however, if i ever have to write a line of javascript again, it'd be too soon.)
 #include <stdio.h>
 #include <math.h>
 #include <chrono>
